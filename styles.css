@@ -1,0 +1,37 @@
+/* add your CSS here */
+.interesting-wolf-facts {
+    font-style: italic;
+}
+
+.wolf-card {
+    width: 300px;
+    background-color: #e0ffe8;
+}
+
+.list-labels {
+    font-weight: bold;
+}
+
+.wolf-details {
+    list-style: none;
+    padding-left: 0;
+}
+
+.wolf-information, .wolf-card {
+    border-style: solid;
+    border-width: 1px;
+    border-color: #CCC;
+    padding: 10px;
+}
+
+.wolf-information {
+    background-color: aliceblue;
+}
+
+.wolf-card {
+    box-shadow: 8px 8px 1px #e2e2e2;
+}
+
+.wolf-video {
+    font-style: normal;
+}
